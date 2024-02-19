@@ -1,0 +1,6 @@
+ID,Role,Username,Password,SignInDateTime,SignOutDateTime,FirstName,LastName,Address,City,State,Zip,Phone,Email
+1001,guess,guess,welcome,,,guess,guess,39399 Cherry St,Fremont,CA,94560,510-7422300,guess@ohlone.edu
+1002,admin,admin,1234,,,admin,ohlone,43600 Mission Blvd,Fremont,CA,94539,510-659-6000,admin@ohlone.edu
+1003,student,john,doe,,,John,Doe,43600 Mission Blvd,Fremont,CA,94539,510-659-6000,jdoe@ohlone.student.edu
+1004,admin,jpham,admin,,,James,Pham,43600 Mission Blvd,Fremont,CA,94539,510-659-6000,jpham@ohlone.edu
+0,N/A,N/A,N/A,Sunday 2/18/2024 0:0:0,Sunday 2/18/2024 0:0:0,N/A,N/A,N/A,N/A,N/A,N/A,510-659-6000,N/A
